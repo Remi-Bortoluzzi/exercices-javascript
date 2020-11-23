@@ -1,0 +1,6 @@
+.correctPassword{
+    border: solid 1px green;
+}
+.wrongPassword{
+    border: solid 1px red;
+}

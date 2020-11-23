@@ -1,0 +1,11 @@
+.errorTextHidden{
+    color: red;
+    visibility: hidden;
+}
+.errorTextVisible{
+    color: red;
+    visibility: visible;
+}
+#form div span{
+    display: block;
+}
